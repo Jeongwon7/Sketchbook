@@ -36,7 +36,7 @@ public class EmailSendServlet extends HttpServlet {
 		
 		String host = "smtp.naver.com";
 		String user = "baozi3785@naver.com";
-		String password = "qusfltmxlsk1";
+		String password = "";
 		
 		String to_email = email;
 		
